@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jairo Avila M, system engineer,QA automation, Colombia.
-- 👀 I’m interested in web development, frontend development
-- 🌱 I’m currently learning Next JS.
+- 👋 Hi, I’m Jairo Avila M, system engineer, QA manual, QA automation with Cypress, CI/CD Jenkins, Colombia.
+- 👀 I’m interested in Software QA tester, Web development, frontend development.
+- 🌱 I’m currently learning Node JS.
 - 💞️ I’m looking to collaborate on any project where I can contribute my knowledge and learn more.
 - 📫 you can to contact me writing to jairoavilam@gmail.com
 
